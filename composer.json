@@ -1,0 +1,16 @@
+{
+    "name": "steve/unit-testing-php",
+    "autoload": {
+        "psr-4": {
+            "Steve\\UnitTestingPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Steve Marks"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.3"
+    }
+}
